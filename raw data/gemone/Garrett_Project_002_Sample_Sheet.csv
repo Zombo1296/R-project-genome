@@ -1,0 +1,22 @@
+[Header],HPT treated with glucose,,,,,
+Investigator Name,Bethany Davis,,,,,
+Project Name,Garrett_Project_002,,,,,
+Experiment Name,Garrett_RNA_Sample_002,,,,,
+Date,9-Jan-15,,,,,
+,,,,,,
+Glucose concentration,Low (L),Medium (M) ,High (H),Control,,
+,7.5 mM,11 mM,16 mM,5.5 mM,,
+[Data],,,,,,
+Sample_Name,Sentrix_ID,Sentrix_Position,Sample_Group,Sample_Well,Pool_ID,Sample_Plate
+C-1,9999593044,A,C-1,A01,,Garrett_RNA_Sample_002
+M-1,9999593044,B,M-1,G01,,Garrett_RNA_Sample_002
+C-2,9999593044,C,C-2,B01,,Garrett_RNA_Sample_002
+M-2,9999593044,D,M-2,H01,,Garrett_RNA_Sample_002
+C-3,9999593044,E,C-3,C01,,Garrett_RNA_Sample_002
+M-3,9999593044,F,M-3,A02,,Garrett_RNA_Sample_002
+L-1,9999593044,G,L-1,D01,,Garrett_RNA_Sample_002
+H-1,9999593044,H,H-1,B02,,Garrett_RNA_Sample_002
+L-2,9999593044,I,L-2,E01,,Garrett_RNA_Sample_002
+H-2,9999593044,J,H-2,C02,,Garrett_RNA_Sample_002
+L-3,9999593044,K,L-3,F01,,Garrett_RNA_Sample_002
+H-3,9999593044,L,H-3,D02,,Garrett_RNA_Sample_002
